@@ -25,31 +25,31 @@ This project involved the creation and management of 100 customized Windows AD u
 
 <p align="center">
 Server Showcase: <br/>
-<img src="https://imgur.com/lldycmR.png" height="150%" width="150%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/r9txvOc.png" height="150%" width="150%" alt="Server Showcase"/>
 <br />
 <br />
 Users and Computers:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/nRTTLsJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Organization Units: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+DHCP and DNS: <br/>
+<img src="https://imgur.com/n382UR4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Software Deployment GPO:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/VyCILxN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Certificate Services:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/6ujvdY9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 File Shares:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/AwIkgzo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Windows Server U[date Service:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Windows Server Update Service:  <br/>
+<img src="https://imgur.com/mtJXQdo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <b>Full Documentation Enterprise Active Directory</b>
