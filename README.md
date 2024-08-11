@@ -24,7 +24,7 @@ This project involved the creation and management of 100 customized Windows AD u
 <h2>Brief walk-through:</h2>
 
 <p align="center">
-Server Showcase: <br/>
+Domain Servers Showcase: <br/>
 <img src="https://imgur.com/r9txvOc.png" height="150%" width="150%" alt="Server Showcase"/>
 <br />
 <br />
